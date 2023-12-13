@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBoyGuto
 - 👀 I’m interested in Learn to improve my acknowledge and improve myself as a Human
-- 🌱 I’m currently learning Javascript, node.js and react
+- 🌱 I’m currently learning Javascript, Laravel and network
 - 💞️ I’m looking to collaborate on with the front-end community
 - 📫 You can reach me by my e-mail: Gusrosa3@Outlook.com or my phone 5551992774334
 
